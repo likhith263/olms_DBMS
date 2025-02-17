@@ -1,29 +1,34 @@
-****How to run the Library Management System Project****
 
-1. Download and Unzip file on your local system copy library
-2. Put library folder inside root directory
+# Online Library Management System
 
-Database Configuration
+## How to Run the Library Management System Project
 
-Open phpmyadmin
-Create Database library
-Import database library.sql (available inside zip package)
+### 1. Download and Setup
+1. **Download** and **unzip** the project files on your local system.
+2. Copy the `library` folder and **place it inside your root directory** (e.g., `htdocs` for XAMPP or `www` for WAMP).
 
-For User
+### 2. Database Configuration
+1. Open **phpMyAdmin**.
+2. Create a new database named **`library`**.
+3. Import the `library.sql` file (available inside the zip package).
 
-Open Your browser put inside browser “http://localhost/library”
+---
 
-***************************Login Details for user***************************
-Username: test@gmail.com
-Password: Test@123
+## ðŸ“Œ User Access
 
-For Admin Panel
+### **For Users**
+- **URL:** [`http://localhost/library`](http://localhost/library)
+- **Login Credentials:**
+  - **Username:** `test@gmail.com`
+  - **Password:** `Test@123`
 
-Open Your browser put inside browser “http://localhost/library/admin”
+### **For Admin Panel**
+- **URL:** [`http://localhost/library/admin`](http://localhost/library/admin)
+- **Login Credentials:**
+  - **Username:** `admin`
+  - **Password:** `Test@123`
 
-***************************Login Details for admin*************************** 
-Username: admin
-Password: Test@123
+---
 
+### ðŸš€ Enjoy Managing Your Library!
 
-For More Details --- https://phpgurukul.com/online-library-management-system/
