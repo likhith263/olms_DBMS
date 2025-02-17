@@ -10,7 +10,7 @@
 ### 2. Database Configuration
 1. Open **phpMyAdmin**.
 2. Create a new database named **`library`**.
-3. Import the `library.sql` file (available inside the zip package).
+3. Import the `library.sql` file (available inside the zip package)
 
 ---
 
